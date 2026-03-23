@@ -39,8 +39,8 @@ On the creative side, I make games and tools under the name **Purify Games**.
 
 <div align="center">
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58E1FF&icon_color=58E1FF&text_color=ffffff)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58E1FF&text_color=ffffff)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=Disc0wd&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58E1FF&icon_color=58E1FF&text_color=ffffff)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Disc0wd&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58E1FF&text_color=ffffff)
 
 </div>
 
