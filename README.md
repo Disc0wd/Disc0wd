@@ -1,6 +1,6 @@
 <div align="center">
 
-# hey, i'm pookie
+# hey, i'm Disc0wd
 
 *secondary school student · belgium · builder of things that didn't exist yet*
 
